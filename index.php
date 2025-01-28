@@ -2,11 +2,11 @@
 /*
   | Source Code Aplikasi Penjualan Barang Kasir dengan PHP & MYSQL
   | 
-  | @package   : kasir-php
+  | @package   : pos-kasir-php
   | @file	   : index.php 
   | @author    : fauzan1892 / Fauzan Falah
-  | @copyright : Copyright (c) 2025 Deni.com (https://www.Deni.com)
-  | @blog      : /source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html
+  | @copyright : Copyright (c) 2017-2021 Codekop.com (https://www.codekop.com)
+  | @blog      : https://www.codekop.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html
   | 
   | 
   | 

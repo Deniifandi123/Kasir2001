@@ -5,11 +5,11 @@
   | @package   : pos-kasir-php
   | @file	   : config.php ( untuk mengatur koneksi php ke database mysql )
   | @author    : fauzan1892 / Fauzan Falah
-  | @copyright : Copyright (c) 2017-2021 Codekop.com (https://www.Deni.com)
-  | @blog      : https://www.Deni.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html
+  | @copyright : Copyright (c) 2017-2021 Codekop.com (https://www.codekop.com)
+  | @blog      : https://www.codekop.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html
   |
   | 
-  | keterangan : untuk login aplikasi dengan username : deni dan password : 123
+  | keterangan : untuk login aplikasi dengan username : admin dan password : 123
   | 
   | 
   | 

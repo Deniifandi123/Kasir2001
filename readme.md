@@ -3,7 +3,7 @@ Source Code Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MY
 
 ## DONASI : <a href="https://saweria.co/fauzan1892">https://saweria.co/fauzan1892</a>
 
-### Source Blog : <a href="https://www.Anak Kosan.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html">https://www.Anak Kosan.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html</a>
+### Source Blog : <a href="https://www.codekop.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html">https://www.codekop.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html</a>
 
 ### Beli Versi Terbaru nya disini : <a href="https://www.codekop.com/products/source-code-aplikasi-pos-penjualan-barang-kasir-dengan-php-mysql-3.html">https://www.codekop.com/products/source-code-aplikasi-pos-penjualan-barang-kasir-dengan-php-mysql-3.html</a>
 ### Beli Aplikasi POS Cafe Resto : <a href="https://www.codekop.com/products/source-code-aplikasi-pos-kasir-cafe-resto-berbasis-website-4.html">https://www.codekop.com/products/source-code-aplikasi-pos-kasir-cafe-resto-berbasis-website-4.html</a>
@@ -14,11 +14,11 @@ Source Code Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MY
 setting koneksi di config.php dan ganti username, password dan dbname nya
 
 ## Penggunaan Login
-Username : deni
+Username : admin
 <br/>
 Password : 123
 <br>
-<span style="color:red">* Penggunaan Login untuk <b>user</b> </span>
+<span style="color:red">* Penggunaan Login untuk <b>single User</b> </span>
 
 ## Contoh Program V2
 - Login
@@ -108,6 +108,6 @@ Warning: session_start(): Cannot send session cookie - headers already sent by (
 ## Contributors
 <a href="https://fauzan.codekop.com/"> Fauzan Falah</a>
 
-My Blog : <a href="https://www.Anak Kos.com/"> Anak kos.com</a>
+My Blog : <a href="https://www.codekop.com/"> Codekop.com</a>
 
 Gunakan Aplikasi dengan bijak, dan Selamat Belajar
